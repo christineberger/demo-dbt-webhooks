@@ -1,0 +1,1 @@
+worker:  christine worker jobs:work
